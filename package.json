@@ -1,0 +1,14 @@
+{
+  "name": "require-lib",
+  "version": "0.1.2",
+  "description": "代码加载器,实现运行时更新与,从网络更新",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hexo-fs": "^0.1.4"
+  }
+}
